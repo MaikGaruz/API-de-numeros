@@ -1,11 +1,12 @@
 # API-de-numeros
+ Consumiendo una API que al ingresar un numero, esta (la API), te devuelve algun
+ dato interesante sobre aquel numero.
+ 
 - IDE: IntelliJ IDEA
 - Lenguaje: Java
 - Framework: Spring boot
 - Herramientas: Jackson Databind
-- 
- Consumiendo una API que al ingresar un numero, esta (la API), te devuelve algun
- dato interesante sobre aquel numero.
+  
 
  Su funcionamiento es muy sencillo. Disponemos de un menu con 2 opciones; uno para
  ingresar el numero que deseemos y otra opcion para generar un numero aleatorio.
