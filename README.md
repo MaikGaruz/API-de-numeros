@@ -2,7 +2,7 @@
  IDE: IntelliJ IDEA
  Lenguaje: Java
  
- Consumiendo una API que al ingresar un numero esta (la API) te devuelve algun
+ Consumiendo una API que al ingresar un numero, esta (la API), te devuelve algun
  dato interesante sobre aquel numero.
 
  Su funcionamiento es muy sencillo. Disponemos de un menu con 2 opciones; uno para
